@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://commissionrecon.dokuline.com/sitemap.xml
